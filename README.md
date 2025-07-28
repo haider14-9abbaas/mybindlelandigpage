@@ -1,4 +1,4 @@
-# 📱 MyBindle - Mobile Companion Landing Page
+# 📱 MyBindle - Landing Page
 
 A modern, responsive landing page built with ; <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
