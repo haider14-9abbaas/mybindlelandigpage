@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@font-face {
+    font-family: 'Gothic Std';
+    src: url('./fonts/ITC\ Avant\ Garde\ Gothic\ Std\ Medium.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media only screen and (min-width: 500px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
+
+
