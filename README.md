@@ -1,6 +1,10 @@
 # 📱 MyBindle - Mobile Companion Landing Page
 
-A modern, responsive landing page built with *React, **Vite, and **Tailwind CSS*, inspired by a mobile-first Figma design. This project replicates the real-world app landing experience using clean design, reusable components, and mobile-first responsiveness.
+A modern, responsive landing page built with ; <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" />
+</p> inspired by a mobile-first Figma design. This project replicates the real-world app landing experience using clean design, reusable components, and mobile-first responsiveness.
 
 ---
 
