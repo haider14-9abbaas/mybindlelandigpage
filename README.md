@@ -10,7 +10,9 @@ A modern, responsive landing page built with ; <p>
 
 ## 🚀 Demo
 
-Coming soon...
+[![View Live on Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mybindlelandingpage.netlify.app)
+
+👉 Click the badge above to check out the live version of this landing page on Netlify.
 
 ---
 
