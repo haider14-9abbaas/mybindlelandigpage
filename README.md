@@ -24,17 +24,18 @@ Coming soon...
 
 ### ✅ Prerequisites
 
-- Node.js v16+
-- Git
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) Node.js v16+
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square) Git
+
 
 ### 🔧 Installation
 
 ```bash
-# git clone https://github.com/ahmedkhan002/mybindle.git
-cd mybindle
+# git clone https://github.com/haider14-9abbaas/mybindlelandigpage.git
+cd mybindlelandingpage
 npm install
 npm run dev
-
+```
 Open your browser and visit:  
 👉 http://localhost:5173
 
@@ -61,16 +62,12 @@ Open your browser and visit:
 
 ## 📦 Deployment
 
+You can easily deploy this landing page to:
+
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge" />
 </p>
-
-You can easily deploy this landing page to:
-
-- [Vercel](https://vercel.com/)  
-- [Netlify](https://www.netlify.com/)  
-- GitHub Pages (with static build steps)  
 
 > Let me know if you want guided steps for any of these platforms.
 
